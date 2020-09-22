@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dc94e702.chunk.css",
+    "main.js": "/static/js/main.af06b2c6.chunk.js",
+    "main.js.map": "/static/js/main.af06b2c6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fd6351d2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fd6351d2.js.map",
+    "static/css/2.366b4564.chunk.css": "/static/css/2.366b4564.chunk.css",
+    "static/js/2.c924e476.chunk.js": "/static/js/2.c924e476.chunk.js",
+    "static/js/2.c924e476.chunk.js.map": "/static/js/2.c924e476.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3c351861e11f31670400291f219a180b.js": "/precache-manifest.3c351861e11f31670400291f219a180b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.366b4564.chunk.css.map": "/static/css/2.366b4564.chunk.css.map",
+    "static/css/main.dc94e702.chunk.css.map": "/static/css/main.dc94e702.chunk.css.map",
+    "static/js/2.c924e476.chunk.js.LICENSE.txt": "/static/js/2.c924e476.chunk.js.LICENSE.txt",
+    "static/media/BeautyHealth.svg": "/static/media/BeautyHealth.0db869e8.svg",
+    "static/media/Beverage.svg": "/static/media/Beverage.2449a583.svg",
+    "static/media/Breakfast.svg": "/static/media/Breakfast.3bb37308.svg",
+    "static/media/Cart.svg": "/static/media/Cart.8322550d.svg",
+    "static/media/Checkout.svg": "/static/media/Checkout.33d7e5d8.svg",
+    "static/media/Cooking.svg": "/static/media/Cooking.e104eaac.svg",
+    "static/media/Dairy.svg": "/static/media/Dairy.c7fd5c4a.svg",
+    "static/media/English.svg": "/static/media/English.1bb007e4.svg",
+    "static/media/FruitsVegetable.svg": "/static/media/FruitsVegetable.a9e4ce72.svg",
+    "static/media/German.svg": "/static/media/German.26f8a857.svg",
+    "static/media/HomeCleaning.svg": "/static/media/HomeCleaning.b8f22f7a.svg",
+    "static/media/MeatFish.svg": "/static/media/MeatFish.88d7f50a.svg",
+    "static/media/PetCare.svg": "/static/media/PetCare.464d343b.svg",
+    "static/media/Snacks.svg": "/static/media/Snacks.ecd8d15e.svg",
+    "static/media/App.scss": "/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd6351d2.js",
+    "static/css/2.366b4564.chunk.css",
+    "static/js/2.c924e476.chunk.js",
+    "static/css/main.dc94e702.chunk.css",
+    "static/js/main.af06b2c6.chunk.js"
+  ]
+}
